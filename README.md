@@ -37,4 +37,4 @@ Set up a simple header component:
 
 #Part 3: Material
 Set up Material Design modules.
-![Part 3: Material Set up](./src/assets/Part2-material.png)
+![Part 3: Material Set up](./src/assets/Part3-material.png)
