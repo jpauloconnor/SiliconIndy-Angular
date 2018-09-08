@@ -28,7 +28,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-![Part 1: Starter](./src/assets/Part1-starter.png)
+![Part 1: Starter](./src/assets/setup.png)
 
 #Part 2: Add Header Component
 Set up a simple header component:
@@ -37,4 +37,4 @@ Set up a simple header component:
 
 #Part 3: Material
 Set up Material Design modules.
-![Part 3: Material Set up](./src/assets/Part2-material.png)
+![Part 3: Material Set up](./src/assets/Part3-materialsetup.png)
